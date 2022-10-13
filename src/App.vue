@@ -5,39 +5,23 @@
         <ul class="z-10">
           <li class="cursor-pointer flex flex-col " style="--i:5;--clr:#1877f2"><span class="text-outline">♣</span><h1 class="text-outline">SİNEK</h1>
             <div class="flex flex-row gap-4 overflow-hidden flex-wrap">
-      <p class="card text-black bg-white">🂱</p>
-      <p class="card text-black bg-white">🂲</p>
-      <p class="card text-black bg-white">🂳</p>
-      <p class="card text-black bg-white">🂴</p>
-      <p class="card text-black bg-white">🂵</p>
-      <p class="card text-black bg-white">🂶</p>
-      <p class="card text-black bg-white">🂷</p>
-      <p class="card text-black bg-white">🂸</p>
-      <p class="card text-black bg-white">🂹</p>
-      <p class="card text-black bg-white">🂺</p>
-      <p class="card text-black bg-white">🂻</p>
-      <p class="card text-black bg-white">🂽</p>
-      <p class="card text-black bg-white">🂾</p>
-    </div>
+                  <p class="card text-black bg-white">🃑</p>
+                  <p class="card text-black bg-white">🃒</p>
+                  <p class="card text-black bg-white">🃓</p>
+                  <p class="card text-black bg-white">🃔</p>
+                  <p class="card text-black bg-white">🃕</p>
+                  <p class="card text-black bg-white">🃖</p>
+                  <p class="card text-black bg-white">🃗</p>
+                  <p class="card text-black bg-white">🃘</p>
+                  <p class="card text-black bg-white">🃙</p>
+                  <p class="card text-black bg-white">🃚</p>
+                  <p class="card text-black bg-white">🃛</p>
+                  <p class="card text-black bg-white">🃝</p>
+                  <p class="card text-black bg-white">🃞</p>
+              </div>
+            
           </li>
           <li class="cursor-pointer flex flex-col " style="--i:4;--clr:#25d366"><span class="text-outline">♠</span><h1 class="text-outline">MAÇA</h1>
-            <div class="flex flex-row gap-4 overflow-hidden flex-wrap">
-      <p class="card text-red-600 bg-white">🃁</p>
-      <p class="card text-red-600 bg-white">🃂</p>
-      <p class="card text-red-600 bg-white">🃃</p>
-      <p class="card text-red-600 bg-white">🃄</p>
-      <p class="card text-red-600 bg-white">🃅</p>
-      <p class="card text-red-600 bg-white">🃆</p>
-      <p class="card text-red-600 bg-white">🃇</p>
-      <p class="card text-red-600 bg-white">🃈</p>
-      <p class="card text-red-600 bg-white">🃉</p>
-      <p class="card text-red-600 bg-white">🃊</p>
-      <p class="card text-red-600 bg-white">🃋</p>
-      <p class="card text-red-600 bg-white">🃍</p>
-      <p class="card text-red-600 bg-white">🃎</p>
-    </div>
-          </li>
-          <li class="cursor-pointer flex flex-col " style="--i:3;--clr:#c32aa3"><span class="text-outline">♥</span><h1 class="text-outline">KUPA</h1>
             <div class="flex flex-row gap-4 overflow-hidden flex-wrap">
       <p class="card text-black bg-white">🂡</p>
       <p class="card text-black bg-white">🂢</p>
@@ -54,22 +38,41 @@
       <p class="card text-black bg-white">🂮</p>
     </div>
           </li>
+          <li class="cursor-pointer flex flex-col " style="--i:3;--clr:#c32aa3"><span class="text-outline">♥</span><h1 class="text-outline">KUPA</h1>
+            <div class="flex flex-row gap-4 overflow-hidden flex-wrap">
+      <p class="card text-red-600 bg-white">🂱</p>
+      <p class="card text-red-600 bg-white">🂲</p>
+      <p class="card text-red-600 bg-white">🂳</p>
+      <p class="card text-red-600 bg-white">🂴</p>
+      <p class="card text-red-600 bg-white">🂵</p>
+      <p class="card text-red-600 bg-white">🂶</p>
+      <p class="card text-red-600 bg-white">🂷</p>
+      <p class="card text-red-600 bg-white">🂸</p>
+      <p class="card text-red-600 bg-white">🂹</p>
+      <p class="card text-red-600 bg-white">🂺</p>
+      <p class="card text-red-600 bg-white">🂻</p>
+      <p class="card text-red-600 bg-white">🂽</p>
+      <p class="card text-red-600 bg-white">🂾</p>
+    </div>
+    
+           
+          </li>
           <li class="cursor-pointer flex flex-col " style="--i:2;--clr:#7F65BF"><span class="text-outline">♦</span><h1 class="text-outline">KARO</h1>
             <div class="flex flex-row gap-4 overflow-hidden flex-wrap">
-                  <p class="card text-red-600 bg-white">🃑</p>
-                  <p class="card text-red-600 bg-white">🃒</p>
-                  <p class="card text-red-600 bg-white">🃓</p>
-                  <p class="card text-red-600 bg-white">🃔</p>
-                  <p class="card text-red-600 bg-white">🃕</p>
-                  <p class="card text-red-600 bg-white">🃖</p>
-                  <p class="card text-red-600 bg-white">🃗</p>
-                  <p class="card text-red-600 bg-white">🃘</p>
-                  <p class="card text-red-600 bg-white">🃙</p>
-                  <p class="card text-red-600 bg-white">🃚</p>
-                  <p class="card text-red-600 bg-white">🃛</p>
-                  <p class="card text-red-600 bg-white">🃝</p>
-                  <p class="card text-red-600 bg-white">🃞</p>
-              </div>
+      <p class="card text-red-600 bg-white">🃁</p>
+      <p class="card text-red-600 bg-white">🃂</p>
+      <p class="card text-red-600 bg-white">🃃</p>
+      <p class="card text-red-600 bg-white">🃄</p>
+      <p class="card text-red-600 bg-white">🃅</p>
+      <p class="card text-red-600 bg-white">🃆</p>
+      <p class="card text-red-600 bg-white">🃇</p>
+      <p class="card text-red-600 bg-white">🃈</p>
+      <p class="card text-red-600 bg-white">🃉</p>
+      <p class="card text-red-600 bg-white">🃊</p>
+      <p class="card text-red-600 bg-white">🃋</p>
+      <p class="card text-red-600 bg-white">🃍</p>
+      <p class="card text-red-600 bg-white">🃎</p>
+    </div>
             </li>
           <li class="cursor-pointer flex flex-col " style="--i:1;--clr:#8FBF22"><span class="text-outline" > J</span><h1 class="text-outline">JOKER</h1><div class="flex flex-row gap-4 overflow-hidden">
       <p class="card text-fuchsia-700 bg-white">🂠</p>
